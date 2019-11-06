@@ -1,4 +1,4 @@
-# 3share
+# Nuxt Template
 
 > My ultimate Nuxt.js project
 
